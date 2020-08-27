@@ -18,4 +18,4 @@ cd guicgs
 
 Por fim, basta abrir o arquivo `profeta.html` no navegador.
 
-Caso tenha interesse, você pode acessar o histórico de desenvolvimento do projeto por meio dos commits originais [neste link](https://github.com/tryber/sd-02-week7-project-daily-prophet/tree/guicgs-project-daily-prophet)
+Caso tenha interesse, você pode acessar o histórico de desenvolvimento do projeto por meio dos commits originais [neste link](https://github.com/tryber/sd-02-week7-project-daily-prophet/tree/guicgs-project-daily-prophet).
